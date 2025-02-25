@@ -32,8 +32,9 @@ Software engineering is a disciplined approach to designing, developing, testing
 7. **Enhances User Experience (UX)**  
    A well-engineered software solution prioritizes usability and user satisfaction, making applications intuitive, accessible, and efficient.
 
+----
 
-####***Identify and describe at least three key milestones in the evolution of software engineering.***
+#### ***Identify and describe at least three key milestones in the evolution of software engineering.***
 
 ### **Key Milestones in the Evolution of Software Engineering**  
 
@@ -53,8 +54,9 @@ Software engineering is a disciplined approach to designing, developing, testing
    - Later, **DevOps (Development + Operations)** emerged, promoting automation, continuous integration/continuous deployment (CI/CD), and collaboration between development and IT operations.  
    - These advancements revolutionized software engineering by increasing flexibility, speed, and reliability in software delivery.
 
+----
 
-####***List and briefly explain the phases of the Software Development Life Cycle.***
+#### ***List and briefly explain the phases of the Software Development Life Cycle.***
 
 ### **Phases of the Software Development Life Cycle (SDLC)**  
 
@@ -88,8 +90,9 @@ The **Software Development Life Cycle (SDLC)** is a structured process used to d
    - Post-deployment, software is continuously monitored for issues.  
    - Updates, bug fixes, and improvements are implemented to enhance performance and security.  
 
+----
 
-####***Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.***
+#### ***Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.***
 
 ### **Comparison of Waterfall and Agile Methodologies**  
 
@@ -112,9 +115,7 @@ Waterfall is best suited for projects with **clear, well-defined requirements** 
 #### **Examples of Waterfall Use Cases**  
 1. **Government or Military Projects** – These require strict documentation and compliance.  
 2. **Banking and Financial Software** – Requires high security, regulatory adherence, and structured development.  
-3. **Infrastructure and Embedded Systems** – Such as medical devices or aerospace systems, where changes are costly.  
-
----
+3. **Infrastructure and Embedded Systems** – Such as medical devices or aerospace systems, where changes are costly.
 
 ### **When to Use Agile**  
 Agile is ideal for **dynamic projects with evolving requirements** and a need for **rapid delivery**.  
@@ -124,8 +125,9 @@ Agile is ideal for **dynamic projects with evolving requirements** and a need fo
 2. **Web and Mobile Applications** – Continuous updates and feature enhancements are needed.  
 3. **AI and Machine Learning Projects** – Agile allows flexibility in model training and feature adjustments.  
 
+----
 
-***Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.***
+#### ***Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.***
 
 ### **Roles and Responsibilities in a Software Engineering Team**  
 
@@ -156,8 +158,9 @@ Agile is ideal for **dynamic projects with evolving requirements** and a need fo
      - Manage risks, identify bottlenecks, and mitigate issues.  
      - Ensure Agile or Waterfall methodologies are followed as per project requirements.
 
+----
 
-####***Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.***
+#### ***Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.***
 
 ### **Importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in Software Development**  
 
@@ -174,9 +177,7 @@ Agile is ideal for **dynamic projects with evolving requirements** and a need fo
 - **Visual Studio Code (VS Code)** – A lightweight and extensible IDE, popular for web and general software development.  
 - **IntelliJ IDEA** – Best suited for Java and Kotlin development.  
 - **PyCharm** – Specialized for Python development.  
-- **Eclipse** – A versatile IDE used for Java and other programming languages.  
-
----
+- **Eclipse** – A versatile IDE used for Java and other programming languages.
 
 #### **2. Version Control Systems (VCS)**  
 **Definition:** A **VCS** is a system that tracks and manages changes to code over time, allowing multiple developers to collaborate efficiently. It helps maintain different versions of the software and enables easy rollback to previous versions if needed.  
@@ -192,8 +193,9 @@ Agile is ideal for **dynamic projects with evolving requirements** and a need fo
 - **Subversion (SVN)** – A centralized version control system still used in some enterprises.  
 - **Mercurial** – Similar to Git but designed for handling large projects efficiently.  
 
+----
 
-***What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.***
+#### ***What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.***
 
 ### **Common Challenges Faced by Software Engineers & Strategies to Overcome Them**  
 
@@ -246,8 +248,9 @@ Agile is ideal for **dynamic projects with evolving requirements** and a need fo
      - Use version control (Git) to track changes safely.  
      - Improve documentation and add unit tests before making major modifications.  
 
+----
 
-####***Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.***
+#### ***Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.***
 
 ### **Types of Software Testing and Their Importance in Quality Assurance**  
 
@@ -261,9 +264,7 @@ Software testing ensures that applications function correctly, meet requirements
 - **Example:** Testing a function that calculates a user’s monthly loan payment to ensure it returns the correct value.  
 - **Importance:**  
   - Detects bugs early in development.  
-  - Improves code reliability and maintainability.  
-
----
+  - Improves code reliability and maintainability.
 
 ### **2. Integration Testing**  
 - **Definition:** Tests interactions between multiple modules or components of a system.  
@@ -273,9 +274,7 @@ Software testing ensures that applications function correctly, meet requirements
 - **Example:** Testing an e-commerce checkout process that integrates the cart, payment gateway, and order confirmation systems.  
 - **Importance:**  
   - Identifies issues with data flow and communication between modules.  
-  - Prevents failures due to incorrect API calls, database queries, or dependencies.  
-
----
+  - Prevents failures due to incorrect API calls, database queries, or dependencies.
 
 ### **3. System Testing**  
 - **Definition:** Tests the entire application as a complete system.  
@@ -285,9 +284,7 @@ Software testing ensures that applications function correctly, meet requirements
 - **Example:** Testing a banking app’s ability to handle transactions, security, and performance under load.  
 - **Importance:**  
   - Validates the entire application against business requirements.  
-  - Detects system-wide issues, including performance, security, and usability problems.  
-
----
+  - Detects system-wide issues, including performance, security, and usability problems.
 
 ### **4. Acceptance Testing**  
 - **Definition:** Validates whether the software meets business requirements and is ready for deployment.  
@@ -302,6 +299,7 @@ Software testing ensures that applications function correctly, meet requirements
   - Ensures the software meets customer needs and business objectives.  
   - Reduces post-launch failures by validating real-world scenarios.  
  
+----
 
 ##### ***#Part 2: Introduction to AI and Prompt Engineering***
 
