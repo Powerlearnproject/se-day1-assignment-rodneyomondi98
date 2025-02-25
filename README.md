@@ -2,9 +2,9 @@
 # SE_Day1
 ###### ****Software Engineering Day1 Assignment****
 
-#####***#Part 1: Introduction to Software Engineering***
+##### ***#Part 1: Introduction to Software Engineering***
 
-#####***Explain what software engineering is and discuss its importance in the technology industry.***
+##### ***Explain what software engineering is and discuss its importance in the technology industry.***
 
 ### **What is Software Engineering?**  
 Software engineering is a disciplined approach to designing, developing, testing, deploying, and maintaining software systems. It applies engineering principles and systematic methodologies to ensure software is reliable, efficient, scalable, and maintainable. Software engineering involves various stages, including requirements analysis, system design, coding, testing, deployment, and maintenance.
@@ -303,10 +303,10 @@ Software testing ensures that applications function correctly, meet requirements
   - Reduces post-launch failures by validating real-world scenarios.  
  
 
-***#Part 2: Introduction to AI and Prompt Engineering***
+##### ***#Part 2: Introduction to AI and Prompt Engineering***
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+#### ***Define prompt engineering and discuss its importance in interacting with AI models.***
 
 ### **Definition of Prompt Engineering**  
 **Prompt engineering** is the practice of designing and refining prompts to effectively communicate with AI models, such as ChatGPT, to achieve **precise, relevant, and high-quality responses**. It involves structuring input queries in a way that guides the AI to generate the most useful output.  
@@ -331,10 +331,11 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 5. **Facilitates Creative and Complex Outputs**  
    - AI can generate stories, code, designs, and more when given **structured, multi-step prompts**.  
-   - Example: A storytelling prompt like *"Write a sci-fi short story set in the year 3025 with a robotic protagonist discovering emotions"* provides AI with a **clear direction**.  
+   - Example: A storytelling prompt like *"Write a sci-fi short story set in the year 3025 with a robotic protagonist discovering emotions"* provides AI with a **clear direction**.
 
+----
 
-####***Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.***
+#### ***Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.***
 
 ### **Example of a Vague Prompt:**  
 📝 **"Tell me about AI."**  
