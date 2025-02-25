@@ -1,10 +1,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18396250&assignment_repo_type=AssignmentRepo)
 # SE_Day1
-Software Engineering Day1 Assignment
+****Software Engineering Day1 Assignment****
 
-#Part 1: Introduction to Software Engineering
+***#Part 1: Introduction to Software Engineering***
 
-Explain what software engineering is and discuss its importance in the technology industry.
+***Explain what software engineering is and discuss its importance in the technology industry.***
 
 ### **What is Software Engineering?**  
 Software engineering is a disciplined approach to designing, developing, testing, deploying, and maintaining software systems. It applies engineering principles and systematic methodologies to ensure software is reliable, efficient, scalable, and maintainable. Software engineering involves various stages, including requirements analysis, system design, coding, testing, deployment, and maintenance.
@@ -33,7 +33,7 @@ Software engineering is a disciplined approach to designing, developing, testing
    A well-engineered software solution prioritizes usability and user satisfaction, making applications intuitive, accessible, and efficient.
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+***Identify and describe at least three key milestones in the evolution of software engineering.***
 
 ### **Key Milestones in the Evolution of Software Engineering**  
 
@@ -54,7 +54,7 @@ Identify and describe at least three key milestones in the evolution of software
    - These advancements revolutionized software engineering by increasing flexibility, speed, and reliability in software delivery.
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+***List and briefly explain the phases of the Software Development Life Cycle.***
 
 ### **Phases of the Software Development Life Cycle (SDLC)**  
 
@@ -89,7 +89,7 @@ The **Software Development Life Cycle (SDLC)** is a structured process used to d
    - Updates, bug fixes, and improvements are implemented to enhance performance and security.  
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+***Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.***
 
 ### **Comparison of Waterfall and Agile Methodologies**  
 
@@ -125,7 +125,7 @@ Agile is ideal for **dynamic projects with evolving requirements** and a need fo
 3. **AI and Machine Learning Projects** – Agile allows flexibility in model training and feature adjustments.  
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+***Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.***
 
 ### **Roles and Responsibilities in a Software Engineering Team**  
 
@@ -157,7 +157,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
      - Ensure Agile or Waterfall methodologies are followed as per project requirements.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+***Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.***
 
 ### **Importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in Software Development**  
 
@@ -193,7 +193,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 - **Mercurial** – Similar to Git but designed for handling large projects efficiently.  
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+***What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.***
 
 ### **Common Challenges Faced by Software Engineers & Strategies to Overcome Them**  
 
@@ -247,7 +247,7 @@ What are some common challenges faced by software engineers? Provide strategies 
      - Improve documentation and add unit tests before making major modifications.  
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+***Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.***
 
 ### **Types of Software Testing and Their Importance in Quality Assurance**  
 
@@ -303,7 +303,7 @@ Software testing ensures that applications function correctly, meet requirements
   - Reduces post-launch failures by validating real-world scenarios.  
  
 
-#Part 2: Introduction to AI and Prompt Engineering
+***#Part 2: Introduction to AI and Prompt Engineering***
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
@@ -334,7 +334,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
    - Example: A storytelling prompt like *"Write a sci-fi short story set in the year 3025 with a robotic protagonist discovering emotions"* provides AI with a **clear direction**.  
 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+***Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.***
 
 ### **Example of a Vague Prompt:**  
 📝 **"Tell me about AI."**  
